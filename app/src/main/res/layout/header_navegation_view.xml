@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="bottom">
+
+    <ImageView android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:src="@drawable/ic_launcher_background"/>
+
+    <ImageView android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:src="@drawable/ic_launcher_foreground"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="bottom"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="30dp"
+            android:text="Navegation View"/>
+
+
+</FrameLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Uva"
+        android:id="@+id/menu_uva">
+    </item>
+    <item
+        android:title="Cosecha"
+        android:id="@+id/menu_cosecha">
+    </item>
+    <item
+        android:title="Provincia De Origen"
+        android:id="@+id/menu_Provincia">
+
+    </item>
+
+
+
+
+
+
+    // app:menu="@menu/menu_layout"
+    //android:layout_gravity="start"
+
+</menu>

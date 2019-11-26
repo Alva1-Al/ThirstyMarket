@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="celdaProducto_TextView_nombre" type="id" />
+    <item name="celdaProducto_TextView_precio" type="id" />
+    <item name="celdaProducto_ImageView_foto" type="id" />
+    <item name="fagment" type="id" />
+</resources>
